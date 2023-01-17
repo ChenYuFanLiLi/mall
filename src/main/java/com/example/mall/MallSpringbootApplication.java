@@ -1,13 +1,13 @@
-package com.example.mallsrpingboot;
+package com.example.mall;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MallSrpingbootApplication {
+public class MallSpringbootApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MallSrpingbootApplication.class, args);
+        SpringApplication.run(MallSpringbootApplication.class, args);
     }
 
 }
